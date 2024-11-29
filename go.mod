@@ -1,4 +1,4 @@
-module github.com/otel-warez/stdinotel/receiver/stdinreceiver
+module github.com/otel-warez/stdinreceiver
 
 go 1.23.0
 
